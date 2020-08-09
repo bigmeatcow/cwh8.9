@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "react-autosuggest": "^10.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1",
+    "throttle-debounce": "^2.2.1"
+  }
+}
